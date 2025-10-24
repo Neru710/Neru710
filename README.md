@@ -10,7 +10,7 @@
 ### Linguagens
 - Python  
 - Lua  
-- C (puro, seco, sem frescura)  
+- C
 
 ### Ferramentas & Tecnologias
 - Git & GitHub  
