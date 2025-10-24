@@ -15,9 +15,8 @@
 ### Ferramentas & Tecnologias
 - Git & GitHub  
 - Arch Linux & Hyprland  
-- Zsh, Rofi, Waybar  
-- Neovim (nvim)  
-
+- Neovim (nvim)
+  
 ### Conteúdo & Design
 - Edição de vídeos  
 - Criação de assets digitais  
